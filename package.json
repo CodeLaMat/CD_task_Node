@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "echo 'Linting!'",
-    "build": "echo 'Running a build!'",
+    "build": "echo 'Running a build HI!'",
     "test": "echo 'Running unit tests!'"
   },
   "author": "SK",
