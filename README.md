@@ -1,4 +1,4 @@
-# null_or_empty
+# CD_task_Node
 
 [![Node CI](https://github.com/CodeLaMat/CD_task_Node/actions/workflows/whatever.yml/badge.svg)](https://github.com/CodeLaMat/CD_task_Node/actions/workflows/whatever.yml)
 
@@ -8,11 +8,11 @@ A Node.js package that checks, if a given string is null or empty.
 
 First, install the package using npm:
 
-    npm install @skalwar/null_or_empty --save
+    npm install @sCodeLaMat/CD_task_Node --save
 
 Then, require the package and use it like so:
 
-    var isNullOrEmpty = require('@skalwar/null_or_empty');
+    var isNullOrEmpty = require('@sCodeLaMat/CD_task_Node');
 
     console.log(isNullOrEmpty("")); // true
     console.log(isNullOrEmpty(null)); // true
