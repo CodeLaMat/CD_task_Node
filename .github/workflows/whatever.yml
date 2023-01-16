@@ -18,9 +18,6 @@ jobs:
       - name: Lint 🧐
         run: npm run lint
 
-      - name: Error
-        run: echo "Eroor message"; exit 1
-
       - name: Build 🏗️
         run: npm run build
 
